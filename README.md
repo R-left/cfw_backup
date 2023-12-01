@@ -1,4 +1,4 @@
-# Fndroid/clash_for_windows_pkg/releases 备份文件
+# Fndroid/clash_for_windows_pkg 备份文件
 
 ## 下载
 windows版本：
